@@ -1,8 +1,8 @@
 # test_specs.py
 """Python Essentials: Unit Testing.
-<Name>
-<Class>
-<Date>
+Suzanna Stephenson
+ACME
+2018
 """
 
 import specs
